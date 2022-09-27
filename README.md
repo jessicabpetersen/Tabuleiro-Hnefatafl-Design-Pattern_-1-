@@ -4,7 +4,8 @@ Trabalho da Materia de Padrões de Projeto
 Esse código consiste na implementação do jogo de tabuleiro **Hnefatafl**, utilizando padrões de projetos. O jogo permite que duas pessoas joguem uma contra a outra, no mesmo computador.
 Junto ao código, contém um Artigo em PDF identificando o uso do padrão de projeto.
 
-O Jogo deve permitir a escolha entre três tipos de tabuleiros, conforme visto na imagem de baixo:
+O Jogo deve permitir a escolha entre três tipos de tabuleiros, conforme visto na imagem de baixo:  
+
 ![Screenshot](tabuleiros.png)
 
 **Regras do jogo:**  
@@ -21,11 +22,15 @@ O Jogo deve permitir a escolha entre três tipos de tabuleiros, conforme visto n
 * As peças de ambos os lados podem ser capturadas.
 * A peça é capturada quando é cercada por duas peças do adversário, formando um sanduíche com a peça do oponente.
 * A peça também pode ser capturada se for encurralada entre um inimigo e o trono, ou um inimigo e um refúgio.
-* Podem ser capturadas mais de uma peça simultaneamente. No exemplo abaixo são capturadas duas peças pretas.
+* Podem ser capturadas mais de uma peça simultaneamente. No exemplo abaixo são capturadas duas peças pretas.  
+
 ![Screenshot](mov1.png)
+
 * O Rei pode participar de uma captura como os seus soldados.
 * Uma peça pode se meter entre duas peças inimigas num movimento. Nessa situação ela não é capturada.
-* Existem quatro formas de capturar o rei.
+* Existem quatro formas de capturar o rei.  
+
 ![Screenshot](mov2.png)
+
 * Se o Rei estiver em perigo de ser capturado, os Mercenários devem avisar “Olha o Rei”. 
 
