@@ -136,7 +136,7 @@
     <Component class="javax.swing.JButton" name="jButtonHnefatafl">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="D:\JessicaPetersen\j&#xe9;ssica\Faculdade - engenharia de software\2018.2\55PPR - Padr&#xf5;es de Projetos\Trabalho semestral\Entrega 1\Trabalho\img\Hnefatafl.png"/>
+          <Image iconType="3" name="/img/Hnefatafl.png"/>
         </Property>
       </Properties>
       <Events>
@@ -146,7 +146,7 @@
     <Component class="javax.swing.JButton" name="jButtonBrandubh">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="D:\JessicaPetersen\j&#xe9;ssica\Faculdade - engenharia de software\2018.2\55PPR - Padr&#xf5;es de Projetos\Trabalho semestral\Entrega 1\Trabalho\img\Brandubh.png"/>
+          <Image iconType="3" name="/img/Brandubh.png"/>
         </Property>
       </Properties>
       <Events>
@@ -156,7 +156,7 @@
     <Component class="javax.swing.JButton" name="jButtonTablut">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="D:\JessicaPetersen\j&#xe9;ssica\Faculdade - engenharia de software\2018.2\55PPR - Padr&#xf5;es de Projetos\Trabalho semestral\Entrega 1\Trabalho\img\Tablut.png"/>
+          <Image iconType="3" name="/img/Tablut.png"/>
         </Property>
       </Properties>
       <Events>

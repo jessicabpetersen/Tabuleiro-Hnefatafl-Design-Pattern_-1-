@@ -61,21 +61,21 @@ public class Inicio extends javax.swing.JFrame {
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("Tabuleiro Hnefatafl");
 
-        jButtonHnefatafl.setIcon(new javax.swing.ImageIcon("D:\\JessicaPetersen\\jéssica\\Faculdade - engenharia de software\\2018.2\\55PPR - Padrões de Projetos\\Trabalho semestral\\Entrega 1\\Trabalho\\img\\Hnefatafl.png")); // NOI18N
+        jButtonHnefatafl.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Hnefatafl.png"))); // NOI18N
         jButtonHnefatafl.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButtonHnefataflActionPerformed(evt);
             }
         });
 
-        jButtonBrandubh.setIcon(new javax.swing.ImageIcon("D:\\JessicaPetersen\\jéssica\\Faculdade - engenharia de software\\2018.2\\55PPR - Padrões de Projetos\\Trabalho semestral\\Entrega 1\\Trabalho\\img\\Brandubh.png")); // NOI18N
+        jButtonBrandubh.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Brandubh.png"))); // NOI18N
         jButtonBrandubh.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButtonBrandubhActionPerformed(evt);
             }
         });
 
-        jButtonTablut.setIcon(new javax.swing.ImageIcon("D:\\JessicaPetersen\\jéssica\\Faculdade - engenharia de software\\2018.2\\55PPR - Padrões de Projetos\\Trabalho semestral\\Entrega 1\\Trabalho\\img\\Tablut.png")); // NOI18N
+        jButtonTablut.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Tablut.png"))); // NOI18N
         jButtonTablut.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButtonTablutActionPerformed(evt);
